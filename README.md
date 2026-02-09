@@ -1,11 +1,14 @@
 **Bingo Español by Sneik Things - Privacy policy**
+
 This privacy policy governs your use of the software application Bingo español for Android mobile devices that was created by Sneik Things.
 
 **What information we collect?**
+
 The application does not collect any personal information like name, surname, age, date ofbirth,etc.
 The application does not collect any information about your device at all.
 
 **Advertisement**
+
 Google Admob privacy policy is here:
 https://support.google.com/admob/answer/6128543?hl=en
 ● Third party vendors, including Google, use cookies to serve ads based on a user's
@@ -17,4 +20,5 @@ by visiting Ads Settings. (Alternatively, you can direct users to opt out of a t
 vendor's use of cookies for interest based advertising by visiting aboutads.info.)
 
 **Contact**
+
 To contact us please use email: sneik15yt@gmail.com
